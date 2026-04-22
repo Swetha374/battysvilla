@@ -1,0 +1,67 @@
+[
+    {
+    "name": "Villa Entrance",
+    "image": "/images/entry.jpeg"
+  },
+  {
+    "name": "Villa Exterior",
+    "image": "/images/villa-exterior.png"
+  },
+  {
+    "name": "Bedroom 1",
+    "image": "/images/room1.jpeg"
+  },
+  {
+    "name": "Bedroom 1 - View 2",
+    "image": "/images/room1.5.jpeg"
+  },
+  {
+    "name": "Bedroom 2",
+    "image": "/images/room2.jpeg"
+  },
+  {
+    "name": "Bedroom 3",
+    "image": "/images/room3.jpeg"
+  },
+  {
+    "name": "Bedroom 3 - View 2",
+    "image": "/images/room3.5.jpeg"
+  },
+  {
+    "name": "Bedroom 4",
+    "image": "/images/room4.jpeg"
+  },
+  {
+    "name": "Bedroom 5",
+    "image": "/images/room5.jpeg"
+  },
+  {
+    "name": "Bathroom 1",
+    "image": "/images/bath1.jpeg"
+  },
+  {
+    "name": "Bathroom 2",
+    "image": "/images/bath2.jpeg"
+  },
+  {
+    "name": "Bathroom 3",
+    "image": "/images/bath3.jpeg"
+  },
+  {
+    "name": "Bathroom 4",
+    "image": "/images/bath4.jpeg"
+  },
+  {
+    "name": "Bathroom 5",
+    "image": "/images/bath5.jpeg"
+  },
+
+  {
+    "name": "Scenery 2",
+    "image": "/images/scenery2.jpeg"
+  },
+  {
+    "name": "Scenery 3",
+    "image": "/images/scenery3.jpeg"
+  }
+]
