@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Users, Car, Wind, Utensils, Wifi, TreePine, Bath } from "lucide-react";
-import { createFileRoute } from "@tanstack/react-router";
 import villaExterior from "@/assets/villa-exterior.png";
 import villaArches from "@/assets/villa-arches.jpg";
 import malampuzhaDam from "@/assets/malampuzha-dam.jpg";
@@ -94,27 +93,7 @@ const heroStagger = {
   }
 };
 
-export const Route = createFileRoute("/")({
-  head: () => ({
-    meta: [
-      { title: "Batty's Villa — A Homestay in Malampuzha, Palakkad" },
-      {
-        name: "description",
-        content:
-          "Batty's Villa is a welcoming homestay in Malampuzha, Palakkad. Situated in the absolute center of natural beauty, it offers a peaceful retreat surrounded by lush landscapes.",
-      },
-      { property: "og:title", content: "Batty's Villa — Malampuzha, Palakkad" },
-      {
-        property: "og:description",
-        content:
-          "A welcoming homestay in Malampuzha, Palakkad — nestled in the very center of natural beauty.",
-      },
-      { property: "og:image", content: villaExterior },
-      { name: "twitter:image", content: villaExterior },
-    ],
-  }),
-  component: HomePage,
-});
+export default HomePage;
 
 
 const amenities = [
