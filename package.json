@@ -3,7 +3,7 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "homepage": "https://Swetha374.github.io/battysvilla/",
+  "homepage": "https://battysvilla.in/",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
